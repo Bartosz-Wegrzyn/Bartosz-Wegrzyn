@@ -8,7 +8,7 @@
 
 ### My projects 
 
-- Sudoku-Solver 🕒
+- Sudoku-Solver ✔
 - Saper 🕒
 - EmmerlingM/Beatles-stats ✔
 
