@@ -11,6 +11,7 @@
 - Sudoku-Solver ✔
 - Saper 🕒
 - EmmerlingM/Beatles-stats ✔
+- Auto-weather-info-on-FB ✔
 
 ### My exercises
 
