@@ -13,6 +13,7 @@
 - EmmerlingM/Beatles-stats ✔
 - Auto-weather-info-on-FB ✔
 - Matrices_calculator 🕒
+- LinkedIn-scrapper ✔
 
 ### My exercises
 
