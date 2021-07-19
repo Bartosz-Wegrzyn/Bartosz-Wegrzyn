@@ -12,6 +12,7 @@
 - Saper 🕒
 - EmmerlingM/Beatles-stats ✔
 - Auto-weather-info-on-FB ✔
+- Matrices_calculator 🕒
 
 ### My exercises
 
