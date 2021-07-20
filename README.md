@@ -24,6 +24,9 @@
   - Java_exercises ✔
   - Numbers_recognition ✔ 
   - Python_exercises ✔ 
+- https://www.sololearn.com/profile/16797606
+- https://www.hackerrank.com/bartoszvvegrzyn
+
 
 __________________________________________________
 #### Legend:
